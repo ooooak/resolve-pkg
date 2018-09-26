@@ -1,0 +1,6 @@
+[package]
+name = "fiber-lang"
+version = "0.1.0"
+authors = ["ਅਕਸ਼ੇ ਗੋਸਵਾਮੀ <akshay.deep0@gmail.com>"]
+
+[dependencies]

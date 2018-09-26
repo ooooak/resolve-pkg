@@ -1,0 +1,6 @@
+A small test to resolve dependencies for go like package system
+
+
+## run test
+
+> cargo run -- ./tests/resolve/
